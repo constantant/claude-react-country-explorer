@@ -21,7 +21,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router>
+      <Router basename="/claude-react-country-explorer">
         <CountryProvider>
           <AppBar position="static">
             <Toolbar>

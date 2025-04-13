@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/claude-react-country-explorer/static/js/main.14970a3f.js",
+    "main.js": "/claude-react-country-explorer/static/js/main.dcf0369f.js",
     "index.html": "/claude-react-country-explorer/index.html",
-    "main.14970a3f.js.map": "/claude-react-country-explorer/static/js/main.14970a3f.js.map"
+    "main.dcf0369f.js.map": "/claude-react-country-explorer/static/js/main.dcf0369f.js.map"
   },
   "entrypoints": [
-    "static/js/main.14970a3f.js"
+    "static/js/main.dcf0369f.js"
   ]
 }
